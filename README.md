@@ -86,7 +86,8 @@ This is a Full Stack MERN (MongoDB, Express.js, React, Node.js) chat application
 ## Screenshots
 
 ![image](https://github.com/Birajj2189/talkey-chat-app/assets/93638316/4bbac975-621e-425d-853f-88313ccd9334)
-![Uploading React App - Brave 2023-11-12 11-59-36.gif…]()
+![React App - Brave 2023-11-12 11-59-36](https://github.com/Birajj2189/talkey-chat-app/assets/93638316/ee0ca0ef-8e54-4076-aa90-697cb77cf533)
+
 
 
 
